@@ -28,6 +28,8 @@ The frontend communicates with the backend to provide a responsive learning expe
 
 ## Demo
 
+Click to play the demo!
+
 [![Watch Demo](demo.png)](https://drive.google.com/file/d/1Kl2T35G-lxQvuMdP5mCPOLwvyQJm-Hqz/view?usp=sharing)
 
 ---
@@ -223,4 +225,4 @@ mvn test
 npm test
 ```
 
-Made with <3
+⋆⭒˚.⋆⋆⭒˚.⋆⋆⭒˚.⋆⋆⭒˚.⋆⋆⭒˚.⋆⋆⭒˚.⋆⋆⭒˚.⋆ Made with <3 ⋆⭒˚.⋆⋆⭒˚.⋆⋆⭒˚.⋆⋆⭒˚.⋆⋆⭒˚.⋆⋆⭒˚.⋆⋆⭒˚.⋆
